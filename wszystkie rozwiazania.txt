@@ -1,0 +1,28 @@
+1)
+Wypisane palindromy zaczynajace sie na litere D: 
+DFDCCDFD
+DFFFD
+DDFFEEJGJEEFFDD
+DCFCD
+Ilosc palindromow zaczynajacych sie na litere D jak Dariusz: 4
+
+2)
+Ilosc palindromow z parzysta liczba znakow: 9
+Ilosc palindromow z nieparzysta liczba znakow: 33
+
+3)
+Wypisane palindromy z 3 lub wiecej A:
+AABBHHIHHBBAA
+AABBAA
+AABAABAABAA
+AJAJAJAJAJA
+FAFBDCEAAAECDBFAF
+ABFACDDABADDCAFBA
+FAAAF
+AABBAA
+BAAJDJAAB
+BADADAB
+AAABEDEBAAA
+BDDFBAFAFABFDDB
+ADAADA
+Ilosc palindromow z 3 lub wiecej A: 13
